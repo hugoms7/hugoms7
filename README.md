@@ -1,7 +1,6 @@
 ###  
 <div id="header" align="center">
-  <img src="![f36](https://user-images.githubusercontent.com/82829965/223183939-360cc196-ea4d-4bb7-8a3e-ba92f6476a49.gif)
-" width="100"/>
+  <img src="https://user-images.githubusercontent.com/82829965/223183939-360cc196-ea4d-4bb7-8a3e-ba92f6476a49.gif" width="100"/>
 </div>
 
 <!--
