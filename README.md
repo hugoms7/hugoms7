@@ -1,6 +1,8 @@
 ###  
+<p align="center">
+  <img src="http://some_place.com/image.png](https://user-images.githubusercontent.com/82829965/223229938-2deaa119-4191-4bab-9297-98230110de6f.gif" />
+</p>
 
-![tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280](https://user-images.githubusercontent.com/82829965/223229938-2deaa119-4191-4bab-9297-98230110de6f.gif)
 
 
 
