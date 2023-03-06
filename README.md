@@ -1,5 +1,5 @@
 ###  
-<div style="margin-bottom: 50mm; margin-left: 35mm;" >
+<div  style='border: 4px solid #f00; margin: 20px;' >
   <img src="https://user-images.githubusercontent.com/82829965/223183939-360cc196-ea4d-4bb7-8a3e-ba92f6476a49.gif" />
 </div>
 
