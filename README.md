@@ -1,6 +1,5 @@
-###  <p align="center">
-  <img width="460" height="300" src=(https://user-images.githubusercontent.com/82829965/223178704-97c96bf8-26ab-4a06-a05c-6a128cd9f478.gif)>
-</p>
+###  
+![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f61352f65632f36356135656336306239306636623866616564653333393061643565653036352e676966](https://user-images.githubusercontent.com/82829965/223179674-9ec4374e-384b-47b0-8543-51a365d7d27b.gif)
 
 <!--
 **hugoms7/hugoms7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
