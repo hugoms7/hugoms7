@@ -1,10 +1,11 @@
 ###  
-<p width=40px height=400px >
-  <img src= "https://user-images.githubusercontent.com/82829965/223231426-ca52c70f-e691-4deb-bc69-cc051de1fd04.gif"/>
+<p align="center" >
+  <img src= "https://user-images.githubusercontent.com/82829965/223231426-ca52c70f-e691-4deb-bc69-cc051de1fd04.gif" width="1365" height="524"/>
 </p>
 
 
 
+![tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280 (1)](https://user-images.githubusercontent.com/82829965/223233021-7c15f00c-1357-42c6-9a0c-036948788983.gif)
 
 
 
