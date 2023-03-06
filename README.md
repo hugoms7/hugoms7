@@ -3,6 +3,8 @@
   <img src="https://user-images.githubusercontent.com/82829965/223183939-360cc196-ea4d-4bb7-8a3e-ba92f6476a49.gif" />
 </div>
 
+![wicked-city-gifs-find-share-on-giphy_2](https://user-images.githubusercontent.com/82829965/223224860-059189c3-5692-4def-b191-55e849cd8641.gif)
+
 <!--
 **hugoms7/hugoms7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
