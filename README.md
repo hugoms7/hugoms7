@@ -1,11 +1,4 @@
 ###  
-<p align="center" >
-  BIENVENIDO <img src="https://user-images.githubusercontent.com/82829965/223234393-e2b63c2f-0944-4c4f-838a-b8b534a45980.gif" width="40" height="40">
-</p>
-
-
-
-
 
 
 
@@ -16,6 +9,15 @@
 
 
 <!--
+<p align="center"  >
+<img src="https://user-images.githubusercontent.com/82829965/223234393-e2b63c2f-0944-4c4f-838a-b8b534a45980.gif" width="40" height="40">
+</p>
+
+
+
+
+
+
 **hugoms7/hugoms7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="center" >
   <img src=  width="1365" height="524"/>
