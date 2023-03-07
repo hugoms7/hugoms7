@@ -9,7 +9,7 @@
 
 
 * Mi nombre es Hugo Martinez y soy de Madrid, España.
-* 
+* ...
 
 
 
