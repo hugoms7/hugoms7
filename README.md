@@ -8,7 +8,7 @@
 <h2><img src="https://user-images.githubusercontent.com/82829965/223284819-ad2dc024-e7c7-435c-b7b3-8073b9fb518d.gif" width="28" height="28"> Sobre mi </h2>
 
 
-* Mi nombre es Hugo Martinez y soy de Madrid, España.
+* Mi nombre es Hugo Martinez.
 * ...
 
 <h2>Lenguajes y Herramientas</h2>
