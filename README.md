@@ -48,6 +48,13 @@ const dev = {
 
 📈 GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hugoms7&show_icons=true&theme=radical" alt="Estadísticas de Hugo" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hugoms7&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</p>
 
 
 
