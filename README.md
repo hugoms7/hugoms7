@@ -47,11 +47,20 @@ const dev = {
 <br clear="right"/>
 
 📈 GitHub Stats
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dhugoms7%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue%26hide_border%3Dtrue" alt="Estadísticas de Hugo" width="48%" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dhugoms7%26layout%3Dcompact%26theme%3Dradical%26hide%3Dhtml,css%26hide_border%3Dtrue" alt="Lenguajes más usados" width="41%" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hugoms7&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Estadísticas de Hugo" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoms7&layout=compact&theme=radical&hide=html,css&hide_border=true" alt="Lenguajes más usados" width="41%" />
+</p>
 
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dhugoms7%26theme%3Dradical%26hide_border%3Dtrue" alt="GitHub Streak" /> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugoms7&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/hugo-martinez-746917342/" target="_blank"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hugo-martinez-746917342/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 
 
