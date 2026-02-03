@@ -14,7 +14,6 @@ const dev = {
   passion: "Construir software escalable y con buen diseño"
 };
 
- 📫 Contacto: hugomartinezsor@gmail.com
 ```
 
 
